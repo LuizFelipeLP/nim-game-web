@@ -1,5 +1,7 @@
 # nim-game-web
 
+Aluno:Luiz Felipe Pereira de Lima
+
 # Nim Game
 
 Jogo do Nim feito com HTML, CSS e JavaScript.
